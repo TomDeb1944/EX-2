@@ -1,0 +1,10 @@
+this file is just for fun as I like to use "touch" command and add multiple files by using just one command
+the reason for this file is completly random
+we'll just see how it goes further while training
+
+btw. I'm reading about different functionalities, like for example permanent file removal which worked onec I learned about it
+but on the other day - which is today - it doesn't seem to be working
+so propbably the reason for this file is to do waht?
+to remove xD
+
+of course I will try to keep the tracking regarding this note, but it will be on seperate branch and will be included in different commit
