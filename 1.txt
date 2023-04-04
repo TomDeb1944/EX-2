@@ -1,1 +1,5 @@
 random text as a base of the project
+
+so the base has to change, we need to know what the base is all about
+
+what are we doing with it?
